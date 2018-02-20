@@ -20,7 +20,6 @@ Note: <kbd><</kbd> and <kbd>></kbd> are angle brackets, not arrow keys.
 | Undo | <kbd>command</kbd> + <kbd>z</kbd> | <kbd>control</kbd> + <kbd>z</kbd> |
 | Redo | <kbd>command</kbd> + <kbd>y</kbd> | <kbd>control</kbd> + <kbd>y</kbd> |
 | Remove current line | <kbd>control</kbd> + <kbd>d</kbd> | TBD |
-| Toggle comment | not working | not working |
 
 ## Terminal
 
@@ -29,3 +28,7 @@ Note: <kbd><</kbd> and <kbd>></kbd> are angle brackets, not arrow keys.
 | Browse command history | <kbd>↑</kbd> / <kbd>↓</kbd> | <kbd>↑</kbd> / <kbd>↓</kbd> |
 | Abort | <kbd>control</kbd> + <kbd>c</kbd> | TBD |
 
+## Not Working
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Command &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; macOS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Windows &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+| ------- | -------- | ------- |
+| Toggle comment | <kbd>command</kbd> + <kbd>/</kbd> | <kbd>control</kbd> + <kbd>/</kbd> |
