@@ -28,6 +28,7 @@ Note: <kbd><</kbd> and <kbd>></kbd> are angle brackets, not arrow keys.
 | <kbd>↑</kbd> / <kbd>↓</kbd> | <kbd>↑</kbd> / <kbd>↓</kbd> | Browse command history | 
 | <kbd>control</kbd> + <kbd>c</kbd> | TBD | Abort | 
 
+<p>
 ---
 
-Not working: <kbd>command</kbd> + <kbd>/</kbd> Toggle comment
+Toggle comment: <kbd>command</kbd> + <kbd>/</kbd> is not working.
