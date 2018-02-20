@@ -17,16 +17,15 @@ Some general keyboard shortcuts that I use frequently.
 
 ## Text Editor
 
-| Command | macOS | Windows | Description |
-| ------- | -------- | ------- | ----------- |
-| Delete current line | <kbd>control</kbd> + <kbd>d</kbd> | ... | ... |
+| Command | macOS | Windows |
+| ------- | -------- | ------- |
+| Delete current line | <kbd>control</kbd> + <kbd>d</kbd> | ... |
 
 
 ## Terminal
 
-| Command | macOS | Windows | Description |
-| ------- | -------- | ------- | ----------- |
-| Previous command | <kbd>↑</kbd> | <kbd>↑</kbd> | Save and Submit |
-| Kill a process | <kbd>control</kbd> + <kbd>c</kbd> | <kbd>alt</kbd> + <kbd><</kbd> | ... |
-| Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | ... |
-| Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | ... |
+| Command | macOS | Windows |
+| ------- | -------- | ------- |
+| Previous command | <kbd>↑</kbd> | <kbd>↑</kbd> |
+| Kill a process | <kbd>control</kbd> + <kbd>c</kbd> | <kbd>alt</kbd> + <kbd><</kbd> |
+
