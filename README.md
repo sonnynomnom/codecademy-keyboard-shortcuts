@@ -10,7 +10,7 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | macOS | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Preferences/Settings | `cmd-,` | `ctrl-,`  | `ctrl-,` | Opens the Preferences/Settings view |
+| Preferences/Settings | <kbd>control</kbd> + <kbd>enter</kbd> | `ctrl-,`  | `ctrl-,` | Opens the Preferences/Settings view |
 | Command Palette | `shift-cmd-p` | `shift-ctrl-p`  | `ctrl-shift-p` | Opens & closes the command palette |
 | Open File (Fuzzy) | `cmd-p` <br/>or<br/> `cmd-t` | `ctrl-p` <br/>or<br/> `ctrl-t`  | `ctrl-p` <br/>or<br/> `ctrl-t` | Opens the Fuzzy Finder palette in which you can search and open files  |
 | Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` | Browse tabs within the window  |
