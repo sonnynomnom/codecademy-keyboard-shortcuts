@@ -4,8 +4,6 @@ This page lists keyboard shortcuts for [Codecademy](https://www.codecademy.com) 
 
 ## General
 
-Some general keyboard shortcuts that I use frequently.
-
 | Command | macOS | Windows | 
 | ------- | -------- | ------- |
 | Save and submit the code | <kbd>command</kbd> + <kbd>return</kbd> | <kbd>control</kbd> + <kbd>enter</kbd> |
