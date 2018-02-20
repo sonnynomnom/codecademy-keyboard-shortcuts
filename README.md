@@ -18,7 +18,7 @@ Some general keyboard shortcuts that I use frequently.
 ## Text Editor
 
 | Command | macOS | Windows |
-| ------- | -------- | ------- |
+| -------------------------------------- | -------- | ------- |
 | Undo | <kbd>command</kbd> + <kbd>z</kbd> | <kbd>control</kbd> + <kbd>z</kbd> |
 | Redo | <kbd>command</kbd> + <kbd>y</kbd> | <kbd>control</kbd> + <kbd>y</kbd> |
 | Delete current line | <kbd>control</kbd> + <kbd>d</kbd> | TBD |
