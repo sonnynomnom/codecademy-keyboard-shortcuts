@@ -30,8 +30,4 @@ Note: <kbd><</kbd> and <kbd>></kbd> are angle brackets, not arrow keys.
 
 ---
 
-Not working: 
-
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; macOS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Windows &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Command &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| ------- | -------- | ------- |
-| <kbd>command</kbd> + <kbd>/</kbd> | <kbd>control</kbd> + <kbd>/</kbd> | Toggle comment | 
+Not working: <kbd>command</kbd> + <kbd>/</kbd> Toggle comment
