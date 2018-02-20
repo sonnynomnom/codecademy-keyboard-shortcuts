@@ -4,7 +4,7 @@ This page lists keyboard shortcuts for [Codecademy](https://www.codecademy.com) 
 
 ## General
 
-| Command  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | macOS | Windows | 
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Command &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | macOS | Windows | 
 | ------- | -------- | ------- |
 | Save and submit the code | <kbd>command</kbd> + <kbd>return</kbd> | <kbd>control</kbd> + <kbd>enter</kbd> |
 | Loads last exercise                   | <kbd>control</kbd> + <kbd><</kbd> | <kbd>alt</kbd> + <kbd><</kbd> |
