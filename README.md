@@ -4,7 +4,7 @@ This page lists keyboard shortcuts for [Codecademy](https://www.codecademy.com) 
 
 ## General
 
-| Command | macOS | Windows | 
+| Command  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | macOS | Windows | 
 | ------- | -------- | ------- |
 | Save and submit the code | <kbd>command</kbd> + <kbd>return</kbd> | <kbd>control</kbd> + <kbd>enter</kbd> |
 | Loads last exercise                   | <kbd>control</kbd> + <kbd><</kbd> | <kbd>alt</kbd> + <kbd><</kbd> |
@@ -19,7 +19,7 @@ Note: <kbd><</kbd> and <kbd>></kbd> are angle brackets, not arrow keys.
 | ------------------------------------- | -------- | ------- |
 | Undo                               | <kbd>command</kbd> + <kbd>z</kbd> | <kbd>control</kbd> + <kbd>z</kbd> |
 | Redo                           | <kbd>command</kbd> + <kbd>y</kbd> | <kbd>control</kbd> + <kbd>y</kbd> |
-| Remove current line   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | <kbd>control</kbd> + <kbd>d</kbd> | TBD |
+| Remove current line| <kbd>control</kbd> + <kbd>d</kbd> | TBD |
 | Toggle comment | not working | not working |
 
 ## Terminal
