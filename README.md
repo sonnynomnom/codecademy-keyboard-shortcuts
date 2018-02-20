@@ -25,5 +25,5 @@ Some general keyboard shortcuts that I use frequently.
 | Command | macOS | Windows |
 | ------- | -------- | ------- |
 | Previous command | <kbd>↑</kbd> | <kbd>↑</kbd> |
-| Kill a process | <kbd>control</kbd> + <kbd>c</kbd> | TBD |
+| Abort | <kbd>control</kbd> + <kbd>c</kbd> | TBD |
 
