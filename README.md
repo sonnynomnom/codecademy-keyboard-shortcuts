@@ -4,7 +4,7 @@ This page lists keyboard shortcuts for [Codecademy](https://www.codecademy.com) 
 
 This list is by no means meant to be a complete listing of every available shortcut. It simply lists the shortcuts that I use on a regular basis. For a complete listing of all available shortcuts, consult the _Settings > Keybindings_ page in Atom.
 
-## In an Exercise
+## General
 
 Some general keyboard shortcuts that I use frequently.
 
@@ -14,3 +14,4 @@ Some general keyboard shortcuts that I use frequently.
 | Loads previous exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | TBD | ... |
 | Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | TBD | ... |
 | Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | TBD | ... |
+| Delete current line
