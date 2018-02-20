@@ -11,7 +11,7 @@ Some general keyboard shortcuts that I use frequently.
 | Command | macOS | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
 | Evaluate exercise | <kbd>command</kbd> + <kbd>enter</kbd> | <kbd>control</kbd> + <kbd>enter</kbd>  | TBD | Save and Submit |
-| Loads previous exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd>  | Opens & closes the command palette |
+| Loads previous exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd>  | TBD| palette |
 | Loads the next exercise) | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd>   | `ctrl-p` <br/>or<br/> `ctrl-t` | Opens the Fuzzy Finder palette in which you can search and open files  |
 | Browse Open Files | `cmd-b` | `ctrl-b`  | `ctrl-b` | Browse tabs within the window  |
 | Grammar Selector | `ctrl-shift-l` | `ctrl-shift-l`  | `ctrl-shift-l` | Selects the language the file is in  |
