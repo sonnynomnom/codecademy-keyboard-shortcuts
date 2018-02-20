@@ -9,7 +9,7 @@ This list is by no means meant to be a complete listing of every available short
 Some general keyboard shortcuts that I use frequently.
 
 | Command | macOS | Windows | Description |
-| ------- | -------- | ------- | ----- | ----------- |
+| ------- | -------- | ------- | ----------- |
 | Evaluate exercise | <kbd>command</kbd> + <kbd>return</kbd> | <kbd>control</kbd> + <kbd>enter</kbd> | Save and Submit |
 | Loads previous exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | ... |
 | Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | ... |
