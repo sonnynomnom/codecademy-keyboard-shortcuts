@@ -17,10 +17,10 @@ Note: <kbd><</kbd> and <kbd>></kbd> are angle brackets, not arrow keys.
 
 | Command | macOS | Windows |
 | -------------------------------------- | -------- | ------- |
-| Toggle comment | not working | not working |
 | Undo | <kbd>command</kbd> + <kbd>z</kbd> | <kbd>control</kbd> + <kbd>z</kbd> |
 | Redo | <kbd>command</kbd> + <kbd>y</kbd> | <kbd>control</kbd> + <kbd>y</kbd> |
 | Remove current line | <kbd>control</kbd> + <kbd>d</kbd> | TBD |
+| Toggle comment | not working | not working |
 
 ## Terminal
 
