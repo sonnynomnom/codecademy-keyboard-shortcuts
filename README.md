@@ -19,7 +19,7 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | macOS | Windows | Description |
 | ------- | -------- | ------- | ----------- |
-| Delete current line | <kbd>command</kbd> + <kbd>return</kbd> | ... | ... |
+| Delete current line | <kbd>control</kbd> + <kbd>d</kbd> | ... | ... |
 
 
 ## Terminal
