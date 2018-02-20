@@ -4,7 +4,7 @@ This page lists keyboard shortcuts for [Codecademy](https://www.codecademy.com) 
 
 ## General
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Command &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | macOS | Windows | 
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Command &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | macOS | Windows | 
 | ------- | -------- | ------- |
 | Save and submit the code | <kbd>command</kbd> + <kbd>return</kbd> | <kbd>control</kbd> + <kbd>enter</kbd> |
 | Loads last exercise                   | <kbd>control</kbd> + <kbd><</kbd> | <kbd>alt</kbd> + <kbd><</kbd> |
@@ -15,7 +15,7 @@ Note: <kbd><</kbd> and <kbd>></kbd> are angle brackets, not arrow keys.
 
 ## Text Editor
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Command &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | macOS | Windows |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Command &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | macOS | Windows |
 | ------------------------------------- | -------- | ------- |
 | Undo                               | <kbd>command</kbd> + <kbd>z</kbd> | <kbd>control</kbd> + <kbd>z</kbd> |
 | Redo                           | <kbd>command</kbd> + <kbd>y</kbd> | <kbd>control</kbd> + <kbd>y</kbd> |
