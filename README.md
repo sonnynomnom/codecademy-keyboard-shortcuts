@@ -9,9 +9,9 @@ Some general keyboard shortcuts that I use frequently.
 | Command | macOS | Windows | 
 | ------- | -------- | ------- |
 | Save and submit the code | <kbd>command</kbd> + <kbd>return</kbd> | <kbd>control</kbd> + <kbd>enter</kbd> |
-| Loads last exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> |
-| Loads next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> |
-| Resets the code in an exercise to its original state | <kbd>control</kbd> + <kbd>g</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> |
+| Loads last exercise                   | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> |
+| Loads next exercise                   | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> |
+| Resets the code to its original state | <kbd>control</kbd> + <kbd>g</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> |
 
 * `<` and `>` are angle brackets, not arrow keys
 
