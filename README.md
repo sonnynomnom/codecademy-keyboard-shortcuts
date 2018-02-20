@@ -24,6 +24,6 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | macOS | Windows |
 | ------- | -------- | ------- |
-| Previous command | <kbd>↑</kbd> | <kbd>↑</kbd> |
+| Browse command history | <kbd>↑</kbd>/<kbd>↓</kbd> | <kbd>↑</kbd>/<kbd>↓</kbd> |
 | Abort | <kbd>control</kbd> + <kbd>c</kbd> | TBD |
 
