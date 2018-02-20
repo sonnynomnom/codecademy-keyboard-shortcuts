@@ -19,7 +19,7 @@ Note: <kbd><</kbd> and <kbd>></kbd> are angle brackets, not arrow keys.
 | ------- | -------- | ------- |
 | <kbd>command</kbd> + <kbd>z</kbd> | <kbd>control</kbd> + <kbd>z</kbd> | Undo | 
 | <kbd>command</kbd> + <kbd>y</kbd> | <kbd>control</kbd> + <kbd>y</kbd> | Redo | 
-| <kbd>control</kbd> + <kbd>d</kbd> | TBD | Remove current line | 
+| <kbd>command</kbd> + <kbd>d</kbd> | <kbd>control</kbd> + <kbd>d</kbd> | Remove current line | 
 
 ## Terminal
 
