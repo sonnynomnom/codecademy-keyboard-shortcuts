@@ -13,4 +13,4 @@ Some general keyboard shortcuts that I use frequently.
 | Evaluate exercise | <kbd>command</kbd> + <kbd>enter</kbd> | <kbd>control</kbd> + <kbd>enter</kbd>  | TBD | Save and Submit |
 | Loads previous exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | TBD | ... |
 | Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | TBD | ... |
-| Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | `ctrl-b` | ... |
+| Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | TBD | ... |
