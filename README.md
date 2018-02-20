@@ -17,7 +17,7 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | macOS | Windows |
 | ------- | -------- | ------- |
-| Delete current line | <kbd>control</kbd> + <kbd>d</kbd> | ... |
+| Delete current line | <kbd>control</kbd> + <kbd>d</kbd> | TBD |
 | Undo | <kbd>command</kbd> + <kbd>z</kbd> | <kbd>control</kbd> + <kbd>z</kbd> |
 | Redo | <kbd>command</kbd> + <kbd>y</kbd> | <kbd>control</kbd> + <kbd>y</kbd> |
 
