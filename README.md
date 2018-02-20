@@ -11,7 +11,7 @@ This page lists keyboard shortcuts for [Codecademy](https://www.codecademy.com) 
 | Loads next exercise                   | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> |
 | Resets the code to its original state | <kbd>control</kbd> + <kbd>g</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> |
 
-Notes: <kbd><</kbd> and <kbd>></kbd> are angle brackets, not arrow keys.
+Note: <kbd><</kbd> and <kbd>></kbd> are angle brackets, not arrow keys.
 
 ## Text Editor
 
