@@ -13,7 +13,7 @@ Some general keyboard shortcuts that I use frequently.
 | Loads next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> |
 | Resets the code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> |
 
-* `<` and `>` are angle brackets, not the arrow keys.
+/* `<` and `>` are angle brackets, not the arrow keys.
 
 ## Text Editor
 
