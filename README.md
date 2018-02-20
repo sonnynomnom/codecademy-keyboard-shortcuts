@@ -26,7 +26,7 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | macOS | Windows | Description |
 | ------- | -------- | ------- | ----------- |
-| Previous command | <kbd>command</kbd> + <kbd>↑</kbd> | <kbd>control</kbd> + <kbd>enter</kbd>  | Save and Submit |
-| Kill a process | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | ... |
+| Previous command | <kbd>↑</kbd> | <kbd>↑</kbd> | Save and Submit |
+| Kill a process | <kbd>control</kbd> + <kbd>c</kbd> | <kbd>alt</kbd> + <kbd><</kbd> | ... |
 | Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | ... |
 | Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | ... |
