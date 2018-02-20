@@ -8,26 +8,25 @@ This list is by no means meant to be a complete listing of every available short
 
 Some general keyboard shortcuts that I use frequently.
 
-| Command | macOS | Windows | Linux | Description |
+| Command | macOS | Windows | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Evaluate exercise | <kbd>command</kbd> + <kbd>return</kbd> | <kbd>control</kbd> + <kbd>enter</kbd>  | TBD | Save and Submit |
-| Loads previous exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | TBD | ... |
-| Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | TBD | ... |
-| Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | TBD | ... |
+| Evaluate exercise | <kbd>command</kbd> + <kbd>return</kbd> | <kbd>control</kbd> + <kbd>enter</kbd> | Save and Submit |
+| Loads previous exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | ... |
+| Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | ... |
+| Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | ... |
 
 ## Text Editor
 
-| Command | macOS | Windows | Linux | Description |
-| ------- | -------- | ------- | ----- | ----------- |
-| Delete current line | <kbd>command</kbd> + <kbd>return</kbd>
+| Command | macOS | Windows | Description |
+| ------- | -------- | ------- | ----------- |
+| Delete current line | <kbd>command</kbd> + <kbd>return</kbd> | ... | ... |
 
 
 ## Terminal
 
-| Command | macOS | Windows | Linux | Description |
-| ------- | -------- | ------- | ----- | ----------- |
-| Previous command | <kbd>command</kbd> + <kbd>↑</kbd> | <kbd>control</kbd> + <kbd>enter</kbd>  | TBD | Save and Submit |
-| Kill a process | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | TBD | ... |
-| Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | TBD | ... |
-| Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | TBD | ... |
-| Delete current line
+| Command | macOS | Windows | Description |
+| ------- | -------- | ------- | ----------- |
+| Previous command | <kbd>command</kbd> + <kbd>↑</kbd> | <kbd>control</kbd> + <kbd>enter</kbd>  | Save and Submit |
+| Kill a process | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | ... |
+| Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | ... |
+| Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | ... |
