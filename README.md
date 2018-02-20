@@ -4,13 +4,13 @@ This page lists keyboard shortcuts for [Codecademy](https://www.codecademy.com) 
 
 This list is by no means meant to be a complete listing of every available shortcut. It simply lists the shortcuts that I use on a regular basis. For a complete listing of all available shortcuts, consult the _Settings > Keybindings_ page in Atom.
 
-## General
+## In an Exercise
 
 Some general keyboard shortcuts that I use frequently.
 
 | Command | macOS | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
-| Evaluate exercise | <kbd>command</kbd> + <kbd>enter</kbd> | <kbd>control</kbd> + <kbd>enter</kbd>  | TBD | Save and Submit |
+| Evaluate exercise | <kbd>command</kbd> + <kbd>return</kbd> | <kbd>control</kbd> + <kbd>enter</kbd>  | TBD | Save and Submit |
 | Loads previous exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | TBD | ... |
 | Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | TBD | ... |
 | Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | TBD | ... |
