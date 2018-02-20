@@ -14,4 +14,20 @@ Some general keyboard shortcuts that I use frequently.
 | Loads previous exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | TBD | ... |
 | Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | TBD | ... |
 | Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | TBD | ... |
+
+## Text Editor
+
+| Command | macOS | Windows | Linux | Description |
+| ------- | -------- | ------- | ----- | ----------- |
+| Delete current line | <kbd>command</kbd> + <kbd>return</kbd>
+
+
+## Terminal
+
+| Command | macOS | Windows | Linux | Description |
+| ------- | -------- | ------- | ----- | ----------- |
+| Previous command | <kbd>command</kbd> + <kbd>↑</kbd> | <kbd>control</kbd> + <kbd>enter</kbd>  | TBD | Save and Submit |
+| Kill a process | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd><</kbd> | TBD | ... |
+| Loads the next exercise | <kbd>control</kbd> + <kbd>></kbd> | <kbd>alt</kbd> + <kbd>></kbd> | TBD | ... |
+| Resets the Code in an exercise to its original state | <kbd>control</kbd> + <kbd>G</kbd> | <kbd>alt</kbd> + <kbd>g</kbd> | TBD | ... |
 | Delete current line
