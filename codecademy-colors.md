@@ -1,7 +1,7 @@
 # Codecademy Colors
 
 ```css
-/* ============ left panel ============ */
+/* =============== left panel =============== */
 
 /* 1. objective, tasks, report a bug */
 .accordion-section-heading {
@@ -22,7 +22,7 @@
 
 /* 3. title */
 h1, h2, h3, h4, h5 {
-  font-family: "Open Sans", "Oxygen","Oxygen","Segoe UI","Helvetica Neue",sans-serif;
+  font-family: "Open Sans", "Oxygen", "Segoe UI", "Helvetica Neue", sans-serif;
   font-weight: 300;
   margin: 0;
   margin-bottom: 0px;
@@ -84,7 +84,7 @@ h1:hover {
   background-color:    #fce5d6;
 }
 
-/* ============ tabs ============ */
+/* =============== tabs =============== */
 
 /* 10. tab */
 .fcn-button--tab.fcn-button--tab--active {
@@ -101,7 +101,7 @@ h1:hover {
 .fcn-tabs {
 }
 
-/* ============ text editor ============ */
+/* =============== text editor =============== */
 
 /* 13. text editor top line */
 .editor {
@@ -136,7 +136,7 @@ h1:hover {
   background-color: #AD6938;
 }
 
-/* ============ right panel ============ */
+/* =============== right panel =============== */
 
 /* 19. query results */
 ._3wUN5-PZUtu6fwxBb2MHR- h3 {
